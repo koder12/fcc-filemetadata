@@ -1,0 +1,21 @@
+{
+  "name": "fcc-filemetadata",
+  "version": "1.0.0",
+  "description": "FCC File Metadata Microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "FCC",
+    "express",
+    "multer",
+    "file",
+    "upload"
+  ],
+  "author": "koder12",
+  "dependencies": {
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
+}
